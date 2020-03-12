@@ -1,4 +1,4 @@
 # JavaWebBar
 
 The code without regularization.
-Thw way of implement is also terrible.
+The way of implement is also terrible.
